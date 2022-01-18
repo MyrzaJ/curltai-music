@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/curltai-music/static/css/main.fccace67.chunk.css",
+    "main.js": "/curltai-music/static/js/main.9156ab93.chunk.js",
+    "main.js.map": "/curltai-music/static/js/main.9156ab93.chunk.js.map",
+    "runtime-main.js": "/curltai-music/static/js/runtime-main.b453257f.js",
+    "runtime-main.js.map": "/curltai-music/static/js/runtime-main.b453257f.js.map",
+    "static/js/2.afe0588d.chunk.js": "/curltai-music/static/js/2.afe0588d.chunk.js",
+    "static/js/2.afe0588d.chunk.js.map": "/curltai-music/static/js/2.afe0588d.chunk.js.map",
+    "index.html": "/curltai-music/index.html",
+    "static/css/main.fccace67.chunk.css.map": "/curltai-music/static/css/main.fccace67.chunk.css.map",
+    "static/js/2.afe0588d.chunk.js.LICENSE.txt": "/curltai-music/static/js/2.afe0588d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b453257f.js",
+    "static/js/2.afe0588d.chunk.js",
+    "static/css/main.fccace67.chunk.css",
+    "static/js/main.9156ab93.chunk.js"
+  ]
+}
