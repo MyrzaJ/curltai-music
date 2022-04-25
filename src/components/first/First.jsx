@@ -45,7 +45,7 @@ const First = () => {
                 </div>
                 
                 <div className='sixpage'>
-                <img src="./images/img/you.jpg" alt="pic" />
+                <img src="../images/img/you.jpg" alt="pic" />
                 <a href="https://youtu.be/GMtFdNRNawc" target="_blank" rel="noopener noreferrer"><h3>I Got You<AiFillYoutube size={25}  className='you'/></h3></a>
                 <p>Pishpek City</p>
                 </div>
